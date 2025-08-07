@@ -11,7 +11,7 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
             src="https://custom-icon-badges.demolab.com/github/stars/NarcisoManjor17?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="[https://github.com/NarcisoManjor17](https://github.com/NarcisoManjor17?tab=repositories)">
+    <a href="https://github.com/NarcisoManjor17?tab=repositories">
         <img 
             alt="Repositório" 
             title="Repositório" 
