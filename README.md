@@ -45,7 +45,7 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" 
 />
 <img 
     align="left" 
@@ -53,7 +53,7 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
 
 <br/>
