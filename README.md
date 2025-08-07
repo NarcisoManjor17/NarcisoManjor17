@@ -8,14 +8,14 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/NarcisoManjor17?color=000900&style=for-the-badge&labelColor=000000&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/NarcisoManjor17?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/NarcisoManjor17">
         <img 
             alt="Meu Perfil" 
             title="GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor17?color=7fbe5c&labelColor=501c2d&style=for-the-badge&logo=github&label=Perfil&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor17?color=0a0c09&labelColor=000000&style=for-the-badge&logo=github&label=Perfil&logoColor=white"
         />
     </a>
   <a href="https://www.linkedin.com/in/narciso-manjor-b73849286/">
