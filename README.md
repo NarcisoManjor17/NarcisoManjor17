@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Narciso Manjor
 
-**`Analistaa de Dados`**
+**`Analista de Dados`**
 
 Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 2020 a licenciatura em Angola no Instituto Superior Politécnico Kalandula de Angola, no curso de Engenharia Informática. Atualmente, estou estudando o mestrado em Engenharia de Software no Instituto Politécnico de Setúbal. Sou apaixonado por tecnologia e compartilho alguns dos meus projectos aqui no github.
 <p align="left">
@@ -14,8 +14,8 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
     <a href="https://github.com/NarcisoManjor17">
         <img 
             alt="Meu Perfil" 
-            title="Meu Perfil" 
-            src="https://custom-icon-badges.demolab/github.com/NarcisoManjor17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="GitHub" 
+            src="https://custom-icon-badges.demolab/github/NarcisoManjor17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
   <a href="https://www.linkedin.com/in/narciso-manjor-b73849286/">
