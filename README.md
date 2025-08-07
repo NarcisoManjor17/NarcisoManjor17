@@ -20,9 +20,9 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
     </a>
   <a href="https://www.linkedin.com/in/narciso-manjor-b73849286/">
         <img 
-            alt="Perfil Pinkedin" 
+            alt="Perfil Linkedin" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=LinkedIn&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
         />
     </a>
 </p>
