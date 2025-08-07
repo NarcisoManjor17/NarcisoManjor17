@@ -15,14 +15,14 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
         <img 
             alt="Meu Perfil" 
             title="GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Perfil&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor17?color=7fbe5c&labelColor=501c2d&style=for-the-badge&logo=github&label=Perfil&logoColor=white"
         />
     </a>
   <a href="https://www.linkedin.com/in/narciso-manjor-b73849286/">
         <img 
             alt="perfil linkedin" 
             title="LinkeIn" 
-            src="https://custom-icon-badges.demolab.com/linkedin/perfil/NarcisoManjor/?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/perfil/NarcisoManjor/?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=LinkedIn&logoColor=white"
         />
     </a>
 </p>
