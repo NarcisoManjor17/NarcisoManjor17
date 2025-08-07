@@ -37,7 +37,7 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
     title="SQL Server" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.iconfinder.com/search/icons?q=sql%20server" 
+    src="https://cdn.jsdelivr.net/npm/mssql@11.0.1/index.min.js" 
 />
 <img 
     align="left" 
