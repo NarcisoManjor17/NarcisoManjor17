@@ -4,7 +4,7 @@
 
 Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 2020 a licenciatura em Angola no Instituto Superior Politécnico Kalandula de Angola, no curso de Engenharia Informática. Atualmente, estou estudando o mestrado em Engenharia de Software no Instituto Politécnico de Setúbal. Sou apaixonado por tecnologia e compartilho alguns dos meus projectos aqui no github.
 <p align="left">
-    <a href="https://github.com/NarcisoManjor17?tab=repositories">
+    <a href="https://github.com/NarcisoManjor17?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
