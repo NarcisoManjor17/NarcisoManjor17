@@ -11,18 +11,18 @@ Me chamo Narciso Luís Manjor, de nacionalidade Angolana. Concluí no ano de 202
             src="https://custom-icon-badges.demolab.com/github/stars/NarcisoManjor17?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/NarcisoManjor17">
+    <a href="[https://github.com/NarcisoManjor17](https://github.com/NarcisoManjor17?tab=repositories)">
         <img 
-            alt="Meu Perfil" 
-            title="GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor17?color=222222&labelColor=000000&style=for-the-badge&logo=github&label=Perfil&logoColor=white"
+            alt="Repositório" 
+            title="Repositório" 
+            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor17?color=222222&labelColor=000000&style=for-the-badge&logo=github&label=Repositório&logoColor=white"
         />
     </a>
   <a href="https://www.linkedin.com/in/narciso-manjor-b73849286/">
         <img 
-            alt="perfil linkedin" 
-            title="LinkeIn" 
-            src="https://custom-icon-badges.demolab.com/github/perfil/NarcisoManjor/?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=LinkedIn&logoColor=white"
+            alt="Perfil Pinkedin" 
+            title="LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/github/followers/NarcisoManjor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=LinkedIn&logoColor=white"
         />
     </a>
 </p>
